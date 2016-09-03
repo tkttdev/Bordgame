@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9f3857a03bf8d49a88228e11cd56d7a5
+timeCreated: 1472654221
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Gputeks
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 25a2de52a470948f0beb4faf6682a6fd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
